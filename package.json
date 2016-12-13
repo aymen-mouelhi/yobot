@@ -1,0 +1,25 @@
+{
+  "name": "yobot",
+  "version": "1.0.0",
+  "description": "Simple Yeoman generator to create a Node bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aymen-mouelhi/yobot.git"
+  },
+  "keywords": [
+    "bot",
+    "messanger",
+    "chat",
+    "bot"
+  ],
+  "author": "Aymen Mouelhi <aymen.mouelhi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aymen-mouelhi/yobot/issues"
+  },
+  "homepage": "https://github.com/aymen-mouelhi/yobot#readme"
+}
