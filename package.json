@@ -1,5 +1,5 @@
 {
-  "name": "yobot",
+  "name": "yobot-node",
   "version": "1.0.0",
   "description": "Simple Yeoman generator to create a Node bot",
   "main": "bot.js",
